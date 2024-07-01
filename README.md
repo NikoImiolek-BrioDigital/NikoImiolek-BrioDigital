@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on .new opportunities for engineers within the DevOps and SRE space.
 - 📫 How to reach me: nick@briodigital.io & 512 426 4403
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can use sails to generate kinetic energy on a board, a boat and in the air!
+- ⚡ Fun fact: I hold the record for youngest person to sail the north welsh sailing marathon when i was 12.
 
 <!---
 NikoImiolek-BrioDigital/NikoImiolek-BrioDigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
